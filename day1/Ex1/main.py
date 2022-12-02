@@ -1,4 +1,4 @@
-f = open("../elves.txt", "r")
+f = open("day1\elves.txt", "r")
 f = f.read()
 
 elves = []
